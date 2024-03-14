@@ -1,2 +1,2 @@
 # curious-crawler
-Small crawler to generate dataset for ML
+Multi-threaded crawler in Rust to generate NLP datasets using Parquet file format for ML
